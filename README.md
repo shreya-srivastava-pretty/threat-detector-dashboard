@@ -94,7 +94,7 @@ The Streamlit dashboard provides:
 
 Dataset used:
 
-CERT Insider Threat Dataset (r4.2)
+[CERT Insider Threat Dataset (r4.2)](https://www.kaggle.com/datasets/andrihjonior/cert-insider-threat-dataset-r4-2)
 
 The dataset contains simulated employee activity logs including:
 
@@ -158,5 +158,4 @@ Author:
 
 Shreya Srivastava
 
-Your repo will look much more professional. 🚀
-```
+
